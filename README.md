@@ -2,9 +2,10 @@
 
 📘 Project Overview
 
-This project is part of an advanced facial recognition initiative designed to enhance the personal security of high-profile individuals. By leveraging AI-driven facial recognition technology, the system aims to accurately distinguish images of notable personalities from the general populace, helping mitigate risks and ensure their safety.
+This project is part of an advanced facial recognition initiative aimed at enhancing the personal security of high-profile individuals. By leveraging AI-driven facial recognition technology, the system can accurately distinguish images of notable personalities from the general populace, helping mitigate risks and protect their safety.
 
-The focus of this study is Arnold Schwarzenegger, a globally recognized figure whose career spans bodybuilding, Hollywood acting, philanthropy, and political leadership as Governor of California. The goal is to develop and evaluate machine learning models capable of identifying Arnold Schwarzenegger in images, distinguishing him from others with high accuracy.
+The focus of this study is Arnold Schwarzenegger, a globally recognized figure whose career spans bodybuilding, Hollywood acting, philanthropy, and political leadership as Governor of California. The project develops and evaluates machine learning models capable of identifying Arnold Schwarzenegger in images, distinguishing him from others with high accuracy.
+
 ----
 
 📊 Dataset
